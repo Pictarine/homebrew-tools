@@ -1,6 +1,6 @@
 cask "feed-manager" do
-    version "0.1.0"
-    sha256 "1c3547041f069252299168f6446870e4b773a045f7e342cf45f9c7f1fed139d9"
+    version "0.2.0"
+    sha256 "38862fdfe30c32e840331cd4e450e2a3069bb3b8e14e48b0f8954c092657512b"
 
     url "https://github.com/Pictarine/feed-manager-releases/releases/download/v#{version}/FeedManager-#{version}.zip"
     name "Feed Manager"
